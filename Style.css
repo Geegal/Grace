@@ -1,0 +1,41 @@
+
+.myheading {
+    background-color: #2b14ff;
+    color: darkturquoise;
+    font-size: 40px;
+}
+
+.heading2{
+    color: chartreuse;
+}
+#three{
+    color: crimson;
+}
+.five{
+background-color: #1de8d3  ;
+padding-top: 30px;
+padding-left: 50px;
+padding-bottom: 30px;
+margin-left: 100px;
+margin-right: 100px;
+}
+.test{
+    display: flex;
+    background-color: lightslategrey;
+    padding: 20px;
+}
+.paragraph{
+    margin-left: 10px;
+}
+.main{
+    display: flex;
+}
+.paragraph2{
+    background-color: mediumpurple;
+}
+.paragraph3{
+    background-color: blue;
+}
+.paragraph4{
+    background-color: rebeccapurple;
+}
